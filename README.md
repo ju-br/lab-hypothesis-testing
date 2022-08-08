@@ -1,10 +1,12 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | Two Sample Hypothesis Testing
+# Lab | Hypothesis Testing
 
 ## Introduction
 
-In `main.ipynb` we'll learn more about hypothesis testing and expand to 2 sample hypothesis tests. If you want to dig deeper you can take `bonus.ipynb` where you'll learn about ANOVA - statistical tests for 3 or more groups.
+In `main.ipynb` we'll familiarize you with one sample hypothesis tests. You will write Python code to conduct one sample hypothesis tests as well as construct confidence intervals.
+
+If you are interested in dive deeper into hypothesis tests, you can complete `bonus.ipynb` where you will learn about two types of t-tests: Student's t- and Paired t- tests. We touched t-tests in the Hypothesis Testing and Statistical Significance lesson but did not go into details. You'll learn about t-test in the upcoming lesson Two Sample Hypothesis Tests with Scipy.
 
 ## Deliverables
 
@@ -21,6 +23,8 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 [Hypothesis Tests in SciPy](https://scipy-lectures.org/packages/statistics/index.html#hypothesis-testing-comparing-two-groups)
 
-[The Chi-Squared Test](https://en.wikipedia.org/wiki/Chi-squared_test)
+[Confidence Intervals](https://en.wikipedia.org/wiki/Confidence_interval)
 
-[The `chi2_contingency` function in SciPy](https://docs.scipy.org/doc/scipy-0.15.1/reference/generated/scipy.stats.chi2_contingency.html)
+[Standard Error in SciPy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.sem.html)
+
+[One Sample Tests of Proportions](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/SAS/SAS6-CategoricalData/SAS6-CategoricalData2.html)
